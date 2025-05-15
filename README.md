@@ -11,7 +11,7 @@
 
 # Output:  
 ⚡ **BOOST YOUR DAY WITH RISEUP!** 🧊  
-![RiseUp Energy Drink Instagram Post](https://github.com/user-attachments/assets/b027adec-46d0-4bc1-b9ba-bf33c0f8defe)
+![{CB2D70A6-FC53-4D2A-86A0-1D7C177F1F27}](https://github.com/user-attachments/assets/c05f7514-5650-43b2-8fed-bdbda2d26c58)
 RiseUp Energy Drink — your go-to for energy, focus, and drive.  
 Refreshingly powerful and ready to fuel your ambition.  
 
