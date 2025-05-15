@@ -1,5 +1,6 @@
 # Ex-No.11: Prompt-Engineering  
-# AIM : To create a promotional Instagram post for a new energy drink named **RiseUp**. Include a catchy headline, 2 emojis, and relevant hashtags.  
+# AIM : 
+To create a promotional Instagram post for a new energy drink named **RiseUp**. Include a catchy headline, 2 emojis, and relevant hashtags.  
 
 # Algorithm:  
 1. Identify the product name "RiseUp" and its target audience — athletes, students, professionals, and busy individuals.  
